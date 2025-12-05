@@ -1,0 +1,30 @@
+.paint-app {
+  text-align: center;
+  padding: 20px;
+}
+
+.toolbar {
+  margin-bottom: 20px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+input[type="color"] {
+  width: 60px;
+  height: 40px;
+  cursor: pointer;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.canvas {
+  border: 2px solid #333;
+  cursor: crosshair;
+  background-color: white;
+}
