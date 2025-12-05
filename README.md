@@ -52,4 +52,5 @@ For å åpne og bruke prosjektet:
 
 ## Laget av
 
-Jonatan Lund Ermesjø
+- Jonatan Lund Ermesjø
+- joni.no
